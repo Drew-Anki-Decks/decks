@@ -15,3 +15,4 @@ graph TD;
     Spring-->Section-Type;
     Section-Type-->Decks;
 ```
+Check out some decks and classes for reference if you are confused.
