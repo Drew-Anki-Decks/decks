@@ -13,3 +13,8 @@ graph TD;
     Section-Type-->Decks;
 ```
 Check out some decks and classes for reference if you are confused.
+
+## Naming Decks
+<class name>: <name of cards>
+i.e.
+Biology: Unit 8 Vocabulary
