@@ -15,6 +15,6 @@ graph TD;
 Check out some decks and classes for reference if you are confused.
 
 ## Naming Decks
-<class name>: <name of cards>
-i.e.
-Biology: Unit 8 Vocabulary
+`[class name]: [name of cards]`
+
+i.e. Biology: Unit 8 Vocabulary
