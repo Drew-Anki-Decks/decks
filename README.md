@@ -9,10 +9,7 @@ In anki, go to the top bar, then `File -> Import` and select the deck you want f
 graph TD;
     Class-Type-->Class;
     Class-->Teacher;
-    Teacher-->Fall;
-    Teacher-->Spring;
-    Fall-->Section-Type;
-    Spring-->Section-Type;
+    Teacher-->Section-Type;
     Section-Type-->Decks;
 ```
 Check out some decks and classes for reference if you are confused.
